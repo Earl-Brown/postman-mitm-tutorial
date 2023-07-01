@@ -1,0 +1,17 @@
+{
+  "name": "mock-mitm",
+  "version": "1.0.0",
+  "description": "Demonstration of mocking to improve the Postman mock server experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "ebrown5@captioncall.com",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
